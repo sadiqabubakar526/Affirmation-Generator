@@ -1,0 +1,93 @@
+#root,
+.App {
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.twitter-logo {
+  width: 20px;
+}
+
+.App-header {
+  overflow-x: hidden;
+  background-color: #f7eaea;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #3e3d56;
+}
+
+.Navigation {
+  display: flex;
+  justify-content: center;
+}
+
+blockquote {
+  font-size: 1.5em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+blockquote:before {
+  color: #bb8989;
+  content: open-quote;
+  font-size: 2em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote:after {
+  color: #bb8989;
+  content: close-quote;
+  font-size: 2em;
+  line-height: 0.1em;
+  margin-left: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+button {
+  margin-right: 5px;
+  color: inherit;
+  text-decoration: none;
+  border-radius: 35px;
+  background-color: #e9e5ef;
+  padding: 15px 32px;
+  border-color: #e2daef;
+  text-transform: uppercase;
+}
+
+.contribute-button {
+  color: #000;
+}
+
+button:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: #e6e6e6;
+}
+
+.Affirmation {
+  flex: 1;
+}
+
+.quote {
+  margin: 1em;
+  max-width: 600px;
+  padding: 2em;
+  color: #f7f7f7;
+  background-color: #444053;
+}
