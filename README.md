@@ -1,6 +1,6 @@
 ### affirmation generator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ec8dd57a-9951-4166-bba9-bb5f99354b29/deploy-status)](https://app.netlify.com/sites/affirmations/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd9b6f83-ef7c-4a78-a3fa-e174aba10d11/deploy-status)](https://app.netlify.com/sites/affirm-gen-dev-ramadan/deploys)
 
 
 
