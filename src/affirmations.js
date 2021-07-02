@@ -230,7 +230,8 @@ const affirmations = [
     author: "Louise Hay"
   },
  { affirmation: "Don't let your fears overwhelm your desire.",
-      author: "Unknown                  source: "Suraj Abubakar"
+      author: "Unknown",        
+  source: "Suraj Abubakar"
  },
   {
     affirmations: "My life is joyously balanced with Work and Play.",
